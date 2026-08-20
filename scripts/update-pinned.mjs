@@ -10,7 +10,7 @@ const pinTheme =
   "theme=transparent&hide_border=true&title_color=2DD4BF&icon_color=38BDF8&text_color=94A3B8";
 
 function pinCard(name) {
-  const image = `https://github-readme-stats.vercel.app/api/pin/?username=${username}&repo=${encodeURIComponent(name)}&${pinTheme}`;
+  const image = `https://github-readme-stats.shion.dev/api/pin/?username=${username}&repo=${encodeURIComponent(name)}&${pinTheme}`;
   return `[![${name}](${image})](https://github.com/${username}/${name})`;
 }
 
