@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280" role="img" aria-label="Erick Morales — Full Stack Senior">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#07111F"/>
+      <stop offset="100%" stop-color="#0E1A2F"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#2DD4BF"/>
+      <stop offset="100%" stop-color="#38BDF8"/>
+    </linearGradient>
+    <pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse">
+      <circle cx="1.5" cy="1.5" r="1.1" fill="#94A3B8" fill-opacity="0.18"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="280" rx="24" fill="url(#bg)"/>
+  <rect width="1200" height="280" rx="24" fill="url(#dots)"/>
+  <rect x="0" y="0" width="8" height="280" fill="url(#accent)"/>
+
+  <text x="48" y="78" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="18" letter-spacing="4" fill="#2DD4BF">FULL STACK SENIOR</text>
+  <text x="48" y="138" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="52" font-weight="700" fill="#F8FAFC">Erick Morales</text>
+  <text x="48" y="186" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="20" fill="#94A3B8">APIs, SaaS and production systems across backend, frontend and cloud.</text>
+
+  <rect x="48" y="214" width="118" height="32" rx="16" fill="#122033" stroke="#1F3A4D"/>
+  <text x="107" y="235" text-anchor="middle" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="13" fill="#E2E8F0">NestJS</text>
+  <rect x="178" y="214" width="118" height="32" rx="16" fill="#122033" stroke="#1F3A4D"/>
+  <text x="237" y="235" text-anchor="middle" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="13" fill="#E2E8F0">Laravel</text>
+  <rect x="308" y="214" width="118" height="32" rx="16" fill="#122033" stroke="#1F3A4D"/>
+  <text x="367" y="235" text-anchor="middle" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="13" fill="#E2E8F0">.NET</text>
+  <rect x="438" y="214" width="118" height="32" rx="16" fill="#122033" stroke="#1F3A4D"/>
+  <text x="497" y="235" text-anchor="middle" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="13" fill="#E2E8F0">React</text>
+
+  <g transform="translate(930,56)" fill="none" stroke="#2DD4BF" stroke-width="2.5" opacity="0.85">
+    <rect x="0" y="48" width="160" height="88" rx="14" fill="#102235" stroke="#2DD4BF"/>
+    <rect x="28" y="24" width="160" height="88" rx="14" fill="#0C1C2E" stroke="#38BDF8" opacity="0.9"/>
+    <rect x="56" y="0" width="160" height="88" rx="14" fill="#0A1626" stroke="#818CF8"/>
+    <path d="M76 28h80M76 44h56M76 60h68" stroke="#94A3B8" stroke-width="4" stroke-linecap="round" opacity="0.7"/>
+  </g>
+</svg>

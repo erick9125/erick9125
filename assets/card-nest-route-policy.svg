@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="132" viewBox="0 0 1200 132" role="img" aria-label="nest-route-policy">
+  <rect width="1200" height="132" rx="18" fill="#0B1628" stroke="#1E2F45"/>
+  <rect x="0" y="0" width="8" height="132" rx="4" fill="#E0234E"/>
+  <text x="36" y="52" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="24" font-weight="700" fill="#F8FAFC">nest-route-policy</text>
+  <text x="36" y="86" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="16" fill="#94A3B8">Declarative resource-level authorization for NestJS: ownership, roles, scopes and tenants.</text>
+  <rect x="920" y="48" width="96" height="28" rx="14" fill="#122033"/>
+  <text x="968" y="67" text-anchor="middle" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="12" fill="#F8FAFC">NestJS</text>
+  <rect x="1028" y="48" width="132" height="28" rx="14" fill="#122033"/>
+  <text x="1094" y="67" text-anchor="middle" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="12" fill="#F8FAFC">Authorization</text>
+</svg>
