@@ -48,7 +48,7 @@ _Pin repositories on your GitHub profile to show them here._
 ## More
 
 <!-- START:MORE -->
-[![fastapi-route-guard](https://github-readme-stats.shion.dev/api/pin/?username=erick9125&repo=fastapi-route-guard&theme=transparent&hide_border=true&title_color=2DD4BF&icon_color=38BDF8&text_color=94A3B8)](https://github.com/erick9125/fastapi-route-guard) [![go-api-reliability-proxy](https://github-readme-stats.shion.dev/api/pin/?username=erick9125&repo=go-api-reliability-proxy&theme=transparent&hide_border=true&title_color=2DD4BF&icon_color=38BDF8&text_color=94A3B8)](https://github.com/erick9125/go-api-reliability-proxy)
+[![go-api-reliability-proxy](https://github-readme-stats.shion.dev/api/pin/?username=erick9125&repo=go-api-reliability-proxy&theme=transparent&hide_border=true&title_color=2DD4BF&icon_color=38BDF8&text_color=94A3B8)](https://github.com/erick9125/go-api-reliability-proxy) [![fastapi-route-guard](https://github-readme-stats.shion.dev/api/pin/?username=erick9125&repo=fastapi-route-guard&theme=transparent&hide_border=true&title_color=2DD4BF&icon_color=38BDF8&text_color=94A3B8)](https://github.com/erick9125/fastapi-route-guard)
 
 [![nest-route-policy](https://github-readme-stats.shion.dev/api/pin/?username=erick9125&repo=nest-route-policy&theme=transparent&hide_border=true&title_color=2DD4BF&icon_color=38BDF8&text_color=94A3B8)](https://github.com/erick9125/nest-route-policy) [![Sistema-de-inventario](https://github-readme-stats.shion.dev/api/pin/?username=erick9125&repo=Sistema-de-inventario&theme=transparent&hide_border=true&title_color=2DD4BF&icon_color=38BDF8&text_color=94A3B8)](https://github.com/erick9125/Sistema-de-inventario)
 
