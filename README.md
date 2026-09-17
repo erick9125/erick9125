@@ -8,7 +8,7 @@
       </div>
     </td>
     <td valign="middle">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=2DD4BF&center=false&vCenter=true&width=620&height=80&lines=Hola%2C+soy+Erick+Morales;Hi%2C+I'm+Erick+Morales;Full+Stack+Senior;Backend+%C2%B7+Frontend+%C2%B7+Mobile;Laravel+%C2%B7+NestJS+%C2%B7+.NET+%C2%B7+React;Santiago%2C+Chile" alt="Typing animation" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=2DD4BF&center=false&vCenter=true&width=620&height=80&lines=Hola%2C+soy+Erick+Morales;Hi%2C+I'm+Erick+Morales;Tech+Lead;Full+Stack+Senior;Backend+%C2%B7+Frontend+%C2%B7+Mobile;Laravel+%C2%B7+NestJS+%C2%B7+.NET+%C2%B7+React;Santiago%2C+Chile" alt="Typing animation" />
     </td>
   </tr>
 </table>
@@ -20,7 +20,7 @@
 
 ![divider](./assets/divider.svg)
 
-I build production backends, web platforms and mobile clients. From SaaS and APIs to libraries I actually use on those projects.
+I build production backends, web platforms and mobile clients. From SaaS and APIs to libraries I actually use on those projects. Currently Tech Lead at **ProMarketing**.
 
 ## Featured
 

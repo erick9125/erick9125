@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280" role="img" aria-label="Erick Morales — Full Stack Senior">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280" role="img" aria-label="Erick Morales — Tech Lead and Full Stack Senior">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0%" stop-color="#07111F"/>
@@ -17,9 +17,9 @@
   <rect width="1200" height="280" rx="24" fill="url(#dots)"/>
   <rect x="0" y="0" width="8" height="280" fill="url(#accent)"/>
 
-  <text x="48" y="78" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="18" letter-spacing="4" fill="#2DD4BF">FULL STACK SENIOR</text>
-  <text x="48" y="138" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="52" font-weight="700" fill="#F8FAFC">Erick Morales</text>
-  <text x="48" y="186" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="20" fill="#94A3B8">APIs, SaaS and production systems across backend, frontend and cloud.</text>
+  <text x="48" y="72" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="16" letter-spacing="2.4" fill="#2DD4BF">TECH LEAD  ·  FULL STACK SENIOR</text>
+  <text x="48" y="134" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="52" font-weight="700" fill="#F8FAFC">Erick Morales</text>
+  <text x="48" y="182" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="20" fill="#94A3B8">APIs, SaaS and production systems across backend, frontend and cloud.</text>
 
   <rect x="48" y="214" width="118" height="32" rx="16" fill="#122033" stroke="#1F3A4D"/>
   <text x="107" y="235" text-anchor="middle" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="13" fill="#E2E8F0">NestJS</text>
